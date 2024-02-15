@@ -4,8 +4,6 @@
 
 I am a 3rd year student of Computer Science and focusing on Full Stack Web Development.
 
-<img src="./c.gif" width="100% " height="200">
-
 I Enjoy Helping People.
 
 ## 🛠 Technologies and Tools
