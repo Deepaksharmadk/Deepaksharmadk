@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFFFF&lines=Hey%2C+good+to+have+you+here!+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 
 ![Banner](./github-header-image.png)
 
