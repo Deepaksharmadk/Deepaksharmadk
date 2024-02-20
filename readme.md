@@ -1,7 +1,5 @@
 
 
-![Banner](./github-header-image.png)
-
 I am a 3rd year student of Computer Science and focusing on Full Stack Web Development.
 
 I Enjoy Helping People.
